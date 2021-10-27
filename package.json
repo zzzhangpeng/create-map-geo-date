@@ -1,0 +1,16 @@
+{
+  "name": "create-map-geo-data",
+  "version": "1.0.0",
+  "description": "create-map-geo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "progress-barjs": "^2.2.1",
+    "request": "^2.88.2"
+  }
+}
