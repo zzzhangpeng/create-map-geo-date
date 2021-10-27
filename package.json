@@ -1,13 +1,13 @@
 {
   "name": "create-map-geo-data",
   "version": "1.0.0",
-  "description": "create-map-geo",
+  "description": "基于nodejs语言编写的脚本语言,爬取中国地图的所有省份、城市边界数据,生成各省、市的边界json文件.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "geo", "map"],
+  "author": "zhangpeng",
   "license": "ISC",
   "dependencies": {
     "progress-barjs": "^2.2.1",
